@@ -1,0 +1,8 @@
+correu: pepgonellabiblioteca@gmail.com
+contraseña: 1234goku
+
+usuariAdmin: PepGonella
+contraseña: 1234
+
+Usuari: Goku
+contraseña: goku
